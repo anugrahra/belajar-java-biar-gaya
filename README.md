@@ -10,4 +10,5 @@
 * <b>Java Cheat Sheet [PDF]:</b> https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf
 
 # FURTHER READING
+* <b>The Java™ Tutorials:</b> https://docs.oracle.com/javase/tutorial/java/index.html
 * <b>Formatter</b>: https://docs.oracle.com/javase/7/docs/api/java/util/Formatter.html
