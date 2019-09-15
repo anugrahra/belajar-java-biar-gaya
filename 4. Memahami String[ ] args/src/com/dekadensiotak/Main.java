@@ -3,6 +3,7 @@ package com.dekadensiotak;
 public class Main {
 
     // string[] args adalah input yang bisa dimasukin saat mengeksekusi java
+    // string[] args menangkap segala sesuatu yang ada (di input) di belakang dari apa yang dieksekusi java class
     // [] --> array / kumpulan data tea gening. contoh: [0,1,2,3, ... ] atau [Ujang, Juned, Edod, ...]
     // masukin datanya di console bos!
     // fyi: aing pake windows ya
