@@ -26,7 +26,7 @@ public class Main {
         System.out.print("bias c = ");
         c = userInput.nextInt();
 
-        // bagusnya mah dikurungan juga biarpun sudah pasti dulian dieksekusi
+        // bagusnya mah dikurungan juga biarpun sudah pasti duluan dieksekusi
         // biar orang yang baca gampil
         int y = (m * x * x) + c;
 
