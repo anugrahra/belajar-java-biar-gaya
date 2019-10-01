@@ -53,7 +53,7 @@ public class Main {
         return parameter * hitungFaktorial(parameter - 1);
     }
 
-    public static void printNilai(int parameter) {
+    private static void printNilai(int parameter) {
         System.out.println("nilai = " + parameter);
 
         // dikondisikan biar gak eror
