@@ -1,6 +1,7 @@
 package com.dekadensiotak;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 public class Main {
 
@@ -94,14 +95,6 @@ public class Main {
         int angka = 10;
         int posisi = Arrays.binarySearch(arrayAngka8, angka);
         System.out.println("Angka " + angka + " ada di index " + posisi);
-
-        // sort tapi terbalik (pakai looping)
-
-        // operasi aritmatika pada array
-        // (bikin fungsi, lalu pakai copyOf untuk menghasilkan array baru hasil aritmatika)
-
-        // menggabungkan dua buah array (pakai copy, lalu bikin fungsinya untuk nempelin dua array)
-
     }
 
     private static void printArray(int[] dataArray) {
